@@ -1,0 +1,31 @@
+{
+  "title": "prova2",
+  "date": "28/09/23",
+  "description": {
+    "ca": "Una prova"
+  },
+  "license": {
+    "ca": "Aquesta obra està sota una llicència de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "ca"
+  ],
+  "mainFile": "prova2.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 5,
+  "totalSize": 54930,
+  "files": [
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "prova2.jclic",
+    "prova2.jclic.js"
+  ]
+}
